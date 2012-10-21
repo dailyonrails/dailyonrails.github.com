@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Daily on Rails]]></title>
-  <link href="http://dailyonrails.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: uncategories | Daily on Rails]]></title>
+  <link href="http://dailyonrails.github.com/blog/categories/uncategories/atom.xml" rel="self"/>
   <link href="http://dailyonrails.github.com/"/>
   <updated>2012-10-21T09:02:52+07:00</updated>
   <id>http://dailyonrails.github.com/</id>
